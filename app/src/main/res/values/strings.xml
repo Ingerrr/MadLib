@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MadLib</string>
+    <string name="welcomeText">Welcome to Mad Libs! I will ask you to fill in words to complete a story. You won\'t be able to see the whole story until you are done filling in al the missing words. That\'s part of the fun. Click below to get started...</string>
+    <string name="start">Let\'s get started!</string>
+    <string name="OK">OK</string>
+    <string name="wordsLeft"> word(s) left</string>
+    <string name="finalText">Your Mad Lib Story!</string>
+    <string name="anotherStory">Another Story</string>
+    <string name="excuse">You have completed all the available stories. When you press \'Another Story\' once more you can redo the previous stories.</string>
+    <string name="pleaseType">"Please type a/an "</string>
+    <string name="fillToComplete">Fill in the word(s) to complete the story!</string>
+    <string name="space">" "</string>
+    <string name="errorBlanc">You did not enter a word</string>
+    <string name="allComplete">You have completed all the stories, press \'Another Story\' once more to start over.</string>
+    <string name="placeHolderText">placeHolderText</string>
+    <string name="count">count</string>
+    <string name="story">story</string>
+    <string name="completeStory">completeStory</string>
+    <string name="storyNumbers">storyNumbers</string>
+    <string name="index">index</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="madlib4">madlib4_dance.txt</string>
+    <string name="madlib3">madlib3_clothes.txt</string>
+    <string name="madlib2">madlib2_university.txt</string>
+    <string name="madlib1">madlib1_tarzan.txt</string>
+    <string name="madlib0">madlib0_simple.txt</string>
+</resources>
